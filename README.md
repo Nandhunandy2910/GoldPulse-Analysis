@@ -2,7 +2,7 @@
 Analyzing Gold Price Trends & Trading Insights
 
 ## 🪙Project Overview
-This project analyzes historical gold price data in Power BI to uncover trends, trading volume patterns, and volatility. The dashboard highlights key metrics like average, max, and min closing prices, 30-day moving averages, and standard deviation, with visuals showing long-term trends, yearly comparisons, and price-volume relationships.
+This project explores historical gold price data to understand market behavior and trading dynamics. Using Power BI and Power Query, the raw dataset is transformed into a clean, interactive dashboard. It tracks average, peak, and low closing prices, moving averages, trading volumes, and volatility, enabling both long-term trend analysis and short-term market insights for smarter decision-making.
 
 ## 🪙 Tools & Technologies Used
 

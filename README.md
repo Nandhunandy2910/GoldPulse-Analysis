@@ -38,7 +38,7 @@ Can support investment strategies (entry/exit points)
 
 ## Dashboard is useful for both long-term strategy and short-term trading decisions.
 
-![] "https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/Screenshot%202025-08-28%20160833.png">GoldPulse Analysis</a>
+![Screenshot 2025-08-28 160833.png](https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/Screenshot%202025-08-28%20160833.png">GoldPulse Analysis</a>)
 
 
 

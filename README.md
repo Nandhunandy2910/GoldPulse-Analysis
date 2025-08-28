@@ -32,6 +32,7 @@ This project analyzes historical gold price data in Power BI to uncover trends, 
 <img src="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/Power%20query.png">
 
 ## 🪙Power BI Dashboard
+# GoldPulse Analysis Dashboard Preview 
 
 # Dashboard is useful for both long-term strategy and short-term trading decisions.
 
@@ -44,6 +45,8 @@ Helps in forecasting gold price trends using historical data
 Useful for risk assessment in volatile markets
 
 Can support investment strategies (entry/exit points)
+
+The ultimate goal is to support investors, analysts, and researchers in making smarter financial decisions.
 
 
 

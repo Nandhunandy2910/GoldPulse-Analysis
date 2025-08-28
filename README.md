@@ -6,19 +6,29 @@ This project analyzes historical gold price data in Power BI to uncover trends, 
 
 ## 🪙Key Features of Dashboard
 
-💠KPIs: avg, max, min closing prices, 30-day MA, trading volume & volatility
-💠Line chart of daily price trends with moving averages
-Combined line & column chart of price vs. volume
-Bar chart of yearly average closing prices
-Scatter plot of yearly % change vs. volume
-Interactive filters for detailed exploration
+● KPIs: avg, max, min closing prices, 30-day MA, trading volume & volatility
+
+● Line chart of daily price trends with moving averages
+
+● Combined line & column chart of price vs. volume
+
+● Bar chart of yearly average closing prices
+
+● Scatter plot of yearly % change vs. volume
+
+● Interactive filters for detailed exploration
 
 ## 🪙 Tools & Technologies Used
 
-Power BI
-Power Query – For data cleaning, null handling, type correction
-Power BI Desktop – For building visual dashboards
-DAX – For calculated fields and measures
+● Power BI
+
+● Power Query – For data cleaning, null handling, type correction
+
+● DAX – For calculated fields and measures
+
+● Power BI Desktop – For building visual dashboards
+
+
 
 
 

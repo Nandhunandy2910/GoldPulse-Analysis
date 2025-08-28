@@ -6,16 +6,14 @@ This project analyzes historical gold price data in Power BI to uncover trends, 
 
 ## Key Features of Dashboard
 
-KPI Highlights – Displays average, maximum, minimum closing prices, 30-day moving average, trading volume, and price volatility.
+KPIs: avg, max, min closing prices, 30-day MA, trading volume & volatility
 
-Trend Analysis – Line chart of daily gold price trends with moving averages for better forecasting.
+Line chart of daily price trends with moving averages
 
-Volume Insights – Combined line & column chart showing relationship between closing price and trading volume.
+Combined line & column chart of price vs. volume
 
-Yearly Comparisons – Bar chart of yearly average closing prices to track long-term growth patterns.
+Bar chart of yearly average closing prices
 
-Volatility & Market Behavior – Scatter plot of yearly % change vs. trading volume to study price fluctuations.
+Scatter plot of yearly % change vs. volume
 
-Interactive Exploration – Dynamic filters and visuals for drilling down into specific time periods and insights.
-
-
+Interactive filters for detailed exploration

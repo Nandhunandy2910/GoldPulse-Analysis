@@ -32,8 +32,7 @@ This project analyzes historical gold price data in Power BI to uncover trends, 
 <img src="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/Screenshot%202025-08-28%20160833.png">
 
 ## 🪙Power BI Dashboard
-
-
+<img src="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/Dashboard%20screenshot.png">
 
 ## 🪙Future Use & Goals
 

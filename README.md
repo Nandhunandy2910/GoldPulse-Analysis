@@ -28,6 +28,19 @@ This project analyzes historical gold price data in Power BI to uncover trends, 
 
 ● Power BI Desktop – For building visual dashboards
 
+# 🪙Future Use & Goals
+
+Helps in forecasting gold price trends using historical data
+
+Useful for risk assessment in volatile markets
+
+Can support investment strategies (entry/exit points)
+
+## Dashboard is useful for both long-term strategy and short-term trading decisions.
+
+
+
+
 
 
 

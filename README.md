@@ -19,7 +19,7 @@ This project analyzes historical gold price data in Power BI to uncover trends, 
 
 ## 🪙Power BI Dashboard
 
-#### GoldPulse Analysis Dashboard Preview
+### GoldPulse Analysis Dashboard Preview
 -<a href="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/GOLDPULSE%20ANALYSIS.pbix">GoldPuls Analysis<a/>
 
 # Dashboard is useful for both long-term strategy and short-term trading decisions.
@@ -60,8 +60,9 @@ Can support investment strategies (entry/exit points)
 
 The ultimate goal is to support investors, analysts, and researchers in making smarter financial decisions.
 
-# 🪙Acknowledgements
+## 🪙Acknowledgements
 Dataset source: [Historical gold prices & trading volume / Kaggle Dataset]
+
 Tool: Microsoft Power BI
 
 
